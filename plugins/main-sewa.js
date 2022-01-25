@@ -12,12 +12,12 @@ Rp. 15,000 Dana, Ovo
 Rp. 20,000 Pulsa Axis/XL
 
 1 Premium / 30 Hari
-Rp. 5,000 Dana, Ovo
-Rp. 10,000 Pulsa Axis/XL
+Rp. 5,000 Dana/4 hari
+Rp. 10,000 Pulsa indosat/8 hari dst
 
 tertarik? hubungi:
-@6287755080455 (amel)
-@6283128734012 (ariffb)
+@6285876902820 (fahril) 
+@6285876902820 (fahril) 
 `.trim(),
         "listType": "PRODUCT_LIST",
         "productListInfo": {
@@ -37,7 +37,7 @@ tertarik? hubungi:
             },
             "businessOwnerJid": "6283128734012@s.whatsapp.net"
         },
-        "footerText": "wa.me/6287755080455\nwa.me/6283128734012"
+        "footerText": "wa.me/6285876902820\nwa.me/6285876902820"
     }
     conn.sendMessage(m.chat, listMessage, 'listMessage', { quoted: m, contextInfo: { mentionedJid: conn.parseMention(listMessage.description) } })
 }
