@@ -1,5 +1,5 @@
 let handler  = async (m, { conn, args }) => {
-   m.reply(`Bot Ini Menggunakan Script : wa.me/6285876902829`)
+   m.reply(`Bot Ini Menggunakan Script : wa.me/6285876902820`)
 }
  
 handler.help = ['sc']
